@@ -12,8 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# About me
-
  👋 Hi, I’m Ciofoaia Andrei, nice to meet ya 😊.<br />
  👀 I love programming and learning new features.<br />
  👔 I'm interested in C++ and Python projects.<br />
