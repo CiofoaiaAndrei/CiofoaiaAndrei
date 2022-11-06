@@ -17,5 +17,5 @@ Here are some ideas to get you started:
  👔 I'm interested in C++ and Python projects.<br />
  🌱 I’m currently learning UE5 and C#.<br />
  🔭 I’m currently working on a shooter game<br />
- ⚡ I also have knwoledges in HTML, CSS, SQL<br />
+ ⚡ I also have knowledges in HTML, CSS, SQL<br />
  📫 How to reach me: andrei.ciofoaia98@gmail.com<br />
